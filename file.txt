@@ -2,3 +2,4 @@ A
 B
 
 Alteracao somente para ver a remoção do commit antigo C
+Alteracao somente para ver a remoção do commit antigo B

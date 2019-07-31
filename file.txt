@@ -1,1 +1,4 @@
 A
+B
+
+Alteracao somente para ver a remoção do commit antigo C
